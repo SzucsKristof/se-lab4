@@ -1,0 +1,6 @@
+usage: GT4500,<PRI_CNT>,<PRI_FAIL_RATE>,<SEC_CNT>,<SEC_FAIL_RATE>
+SUCCESS
+Unknown command: 'TORPEDOO'
+SUCCESS
+SUCCESS
+Unknown firing mode: ' SINGLE'
